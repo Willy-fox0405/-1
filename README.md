@@ -1,1 +1,2 @@
 用python在leetcode中寫兩數之和和回文數的題目
+有遇到的問題:適應leetcode這個網頁的用法
