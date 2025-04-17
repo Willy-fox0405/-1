@@ -1,0 +1,1 @@
+用python在leetcode中寫兩數之和和回文數的題目
